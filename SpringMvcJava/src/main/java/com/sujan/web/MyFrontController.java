@@ -1,4 +1,4 @@
-package com.telusko.web;
+package com.sujan.web;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
